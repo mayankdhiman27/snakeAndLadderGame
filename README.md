@@ -14,3 +14,20 @@ Rule:
 # Will be improved further for:
   -> random snakes and ladder position.
   -> More than 1 dice to roll at a time.
+
+
+# There was some error while adding file to git. So, I have added all the files in the main folder only. Describing them below:
+  -> "pojo" package should contain files:
+                -> Board.java
+                -> Ladder.java
+                -> Player.java
+                -> Snake.java
+          
+  -> "srvices"package should contain:
+                -> DiceRollingService.java
+                -> GameService
+                
+  -> "onstants" ackage should contain:
+                -> GlobalConstants.java
+                
+  -> Main should be outside all the above packages.
